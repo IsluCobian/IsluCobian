@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Cobian</h1>
 <h3 align="center">A Software development student</h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islucobian&show_icons=true&locale=en&layout=compact" alt="islucobian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islucobian&show_icons=true&locale=en&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="60%" alt="islucobian" />
 </div>
 
 ###
