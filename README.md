@@ -23,7 +23,7 @@
 
 
 ## 📫 Get in Touch:
-- [Portfolio]([https://cobian.dev/])  
-- [LinkedIn]([https://www.linkedin.com/in/islucobian/])
+- [Portfolio](https://cobian.dev/)  
+- [LinkedIn](https://www.linkedin.com/in/islucobian/)
 
 
