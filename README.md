@@ -1,29 +1,41 @@
 <h1 align="center">Hi 👋, I'm Luis Cobian</h1>
-<h3 align="center">A Software Engineer & UX|UI Enthusiast</h3>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islucobian&show_icons=true&locale=en&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="60%" alt="islucobian" />
-</div>
+<p align="center">
+  <strong>A Software Engineer & UX/UI Enthusiast</strong>
+</p>
 
-###
-- 🌱 Currently diving deep into Spring Boot, AWS, and Docker to enhance my backend and cloud knowledge.
-- 🔍 Always sharpening my skills in **TypeScript**, **React**, and **Java**.
-- 🎮 In my downtime? I’m either collecting mangas 📚 or assembling detailed Gunpla models (because who doesn’t love giant robots? 🤖).
+### 🚀 About Me
 
-## 🛠 Use to code:
+- 💻 **How it started:** I’ve been hooked on computers since I was 7. Getting my first desktop in middle school got me into design, and by high school, that naturally turned into learning how to code.
+- 🎨 **What I do:** I focus mainly on frontend development, blending design and code to build things that look clean and actually feel intuitive to use.
+- 📐 **Workspace & Detail:** I'm big on details and functionality—both in my code and my physical surroundings. If I'm not tweaking a layout, I'm probably rearranging my room to keep my space functional and inspiring.
+- 🤖 **In my downtime:** I'm a builder at heart. I spend my free time collecting manga 📚, assembling Lego car models 🏎️, or building **Gunpla** 🦾.
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&labelColor=black&logo=Prisma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Languages & Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Backend, AI & Infrastructure**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### **Development & Tools**
+![Cursor](https://img.shields.io/badge/Cursor-555555?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-## 📫 Get in Touch:
-- [Portfolio](https://cobian.dev/)  
-- [LinkedIn](https://www.linkedin.com/in/islucobian/)
+### 📫 Connect with Me
 
-
+*   🌐 **Website:** [cobian.dev](https://cobian.dev/)
+*   💼 **LinkedIn:** [linkedin.com/in/islucobian](https://www.linkedin.com/in/islucobian/)
